@@ -9,7 +9,7 @@ Ele abrange desde a **coleta e tratamento dos dados** até a **construção de m
 
 ## 🗂️ Estrutura do Projeto
 
-
+```
 Sistema_Analise_Credito_PessoaFisica/
 ├── notebooks/
 │   ├── rotina_principal.ipynb
@@ -17,7 +17,7 @@ Sistema_Analise_Credito_PessoaFisica/
 ├── src/
 │   └── utils.py
 └── README.md
-
+```
 
 ---
 
@@ -33,10 +33,10 @@ Sistema_Analise_Credito_PessoaFisica/
 
 ## 🧪 Instalação
 
-Você pode instalar os pacotes necessários com o seguinte comando:
+## Você pode instalar os pacotes necessários com o seguinte comando:
 
-# pip install pyspark pandas numpy
-# Spark precisa estar instalado
+### pip install pyspark pandas numpy
+### Spark precisa estar instalado
 
 ## 🤝 Contribuições
 
